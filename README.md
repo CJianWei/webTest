@@ -8,4 +8,4 @@ src/com.dy.Basic/UIFramework.java 文件中包括了一些web测试中常用的�
 
 UIFramework ui = new UIFramework("conf/ini");
 
-之后可以随意按照需求调用测试方法。
+之后可以按照需求调用测试方法。
